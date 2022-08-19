@@ -26,10 +26,62 @@ Como parte de la especialización del ingeneria de software uno de los talleres 
 [Postman](https://www.postman.com/downloads/)
 [VisualCode](https://code.visualstudio.com/download) o [Pycharm](https://www.jetbrains.com/es-es/pycharm/download)
 
-Comenzando 🚀
-Descargar el proyecto del siguiente [link](https://github.com/ediguerrero/udem-service1)
+###Instrucciónes 🚀
 
-Mira Deployment para conocer como desplegar el proyecto.
+#### Primera Parte: microservicio.
+
+Descargar el proyecto del siguiente [link](https://github.com/ediguerrero/udem-service1) en una carpeta donde tengas los proyectos en tu maquina local.
+
+Instalar las dependencias con los siguientes comandos, desde la consola de comandos:
+
+```
+python3 -m venv .venv   //isolate libraries for this application
+
+source .venv/bin/activate  //activate virtual env
+
+pip install fastapi
+
+pip install "uvicorn[standard]"
+
+pip3 freeze > requirements.txt // transportar dependiencias
+
+```
+
+Ejecutar el servidor que contiene la app instalar las librerias request
+
+```
+uvicorn main:app --reload
+
+python -m pip install requests
+
+```
+
+Ir al browser y abrir [la página](http://localhost:8000/docs)
+
+Comprobar que al abrir, cargue el swagger y tenga metodo infoUsers
+
+Con la cuenta de mockapi hacer una copia del siguiente [proyecto](https://mockapi.io/clone/62fdb4356e617f88dead7817), esto con el objetivo que puedan modificar los datos de la respuesta del API con sus datos.
+
+Modificar la linea 11 de archivo main.py con la url correspondiente a los datos que deseen probar.
+```
+url = 'https://62fc4666abd610251c17fdae.mockapi.io/api/User/?idUsuario=' + idUsuario
+
+```
+#### Segunda Parte: Continuous Integration.
+
+Instalar pytest, transportar dependiencias y probar el microservicio.
+
+```
+python -m pip install pytest
+
+pip3 freeze > requirements.txt
+
+pytest test_capitalize.py
+
+```
+
+Validar que el codigo no tenga error.
+
 
 Cómo ejecutar la app local
 Cómo probar localmente
