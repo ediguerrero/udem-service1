@@ -1,6 +1,7 @@
 # Taller Caso GreenSoft
-##### Aseguramiento de la calidad del Software, Docente Juan Pablo Ramírez
-##### Univerdidad De Medellín 2022
+##### Aseguramiento de la calidad del Software
+##### Univerdidad De Medellín, 2022
+
  
  
 
@@ -88,10 +89,10 @@ Validar que el codigo no tenga error.
 
 ## Autores ✒️
 #### Integrantes
-##### Juan Pablo Ramírez, Lider Técnico.
-##### Edisson Guerrero, Desarrollo.
-##### Lila López, Documentación.
-##### Saulo Cano, QA.
+##### Juan Pablo Ramírez (docente), Lider Técnico. 
+##### Edisson Guerrero (estudiante), Desarrollo. 
+##### Lila López (estudiante), Documentación. 
+##### Saulo Cano (estudiante), QA. 
 
 ## Licencia 📄
 Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo LICENSE.md para detalles
