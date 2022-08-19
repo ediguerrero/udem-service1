@@ -1,6 +1,6 @@
 # Taller Caso GreenSoft
-## Aseguramiento de la calidad del Software, Docente Juan Pablo Ramírez
-## Univerdidad De Medellín 2022
+##### Aseguramiento de la calidad del Software, Docente Juan Pablo Ramírez
+##### Univerdidad De Medellín 2022
  
  
 
