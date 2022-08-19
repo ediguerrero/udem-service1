@@ -2,7 +2,7 @@
 
 Autores
 Edisson Guerrero
-Lila Lopez
+Lila López
 Saulo Cano
 
 Prerrequisitos
