@@ -1,12 +1,14 @@
 # Taller Caso GreenSoft
-#### Aseguramiento de la calidad del Software, Docente Juan Pablo Ramírez
-##### Univerdidad De Medellín 2022
+## Aseguramiento de la calidad del Software, Docente Juan Pablo Ramírez
+### Univerdidad De Medellín 2022
 
-### Introducción
+
+
+## Introducción
 Como parte de la especialización del ingeneria de software uno de los talleres entregables consta de la entrega de un proyecto con varios requerimientos el cual ayuda a reforzar de una manera practica los conceptos de DevOps aprendidos en clase.  Pueden conocer el proyecto en el siguiente [link](https://docs.google.com/document/d/1i-5brhFVuKGo6tiFcNZxyGDXSMJqeY21GEWE3LqItiA/edit#)
 
 
-### Pre-requisitos 📋
+## Pre-requisitos 📋
 #### Tener cuentas activas en los siguientes productos, sino los tiene deben crear la cuenta:
 [github](https://github.com/join) para tener cargar el código a los repositorios.
 [mockapi](https://mockapi.io/signup) para crear el api para acceder a usuarios, tokens y roles.
@@ -26,9 +28,9 @@ Como parte de la especialización del ingeneria de software uno de los talleres 
 [Postman](https://www.postman.com/downloads/)
 [VisualCode](https://code.visualstudio.com/download) o [Pycharm](https://www.jetbrains.com/es-es/pycharm/download)
 
-### Instrucciónes 🚀
+## Instrucciónes 🚀
 
-#### Primera Parte: microservicio.
+### Primera Parte: microservicio.
 
 Descargar el proyecto del siguiente [link](https://github.com/ediguerrero/udem-service1) en una carpeta donde tengas los proyectos en tu maquina local.
 
@@ -67,7 +69,7 @@ Modificar la linea 11 de archivo main.py con la url correspondiente a los datos 
 url = 'https://62fc4666abd610251c17fdae.mockapi.io/api/User/?idUsuario=' + idUsuario
 
 ```
-#### Segunda Parte: Continuous Integration.
+### Segunda Parte: Continuous Integration.
 
 Instalar pytest, transportar dependiencias y probar el microservicio.
 
@@ -83,63 +85,18 @@ pytest test_capitalize.py
 Validar que el codigo no tenga error.
 
 
-Cómo ejecutar la app local
-Cómo probar localmente
-Cómo abrirla cuando está en ejecución
 
-Da un ejemplo
-Instalación 🔧
-Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose
-
-Dí cómo será ese paso
-
-Da un ejemplo
-Y repite
-
-hasta finalizar
-Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo
-
-Ejecutando las pruebas ⚙️
-Explica como ejecutar las pruebas automatizadas para este sistema
-
-Analice las pruebas end-to-end 🔩
-Explica que verifican estas pruebas y por qué
-
-Da un ejemplo
-Y las pruebas de estilo de codificación ⌨️
-Explica que verifican estas pruebas y por qué
-
-Da un ejemplo
-Despliegue 📦
-Agrega notas adicionales sobre como hacer deploy
-
-Construido con 🛠️
-Menciona las herramientas que utilizaste para crear tu proyecto
-
-Dropwizard - El framework web usado
-Maven - Manejador de dependencias
-ROME - Usado para generar RSS
-Contribuyendo 🖇️
-Por favor lee el CONTRIBUTING.md para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
-
-Wiki 📖
-Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra Wiki
-
-Versionado 📌
-Usamos SemVer para el versionado. Para todas las versiones disponibles, mira los tags en este repositorio.
-
-Autores ✒️
+## Autores ✒️
 #### Integrantes
 ##### Juan Pablo Ramírez, Lider Técnico.
 ##### Edisson Guerrero, Desarrollo.
 ##### Lila López, Documentación.
 ##### Saulo Cano, QA.
 
-
-
-Licencia 📄
+## Licencia 📄
 Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo LICENSE.md para detalles
 
+## Agradecimientos.
 Gracias a todos los integrantes y docente del proyecto.
 
 
