@@ -6,28 +6,28 @@
  
 
 ## Introducción
-Como parte de la especialización del ingeneria de software uno de los talleres entregables consta de la entrega de un proyecto con varios requerimientos el cual ayuda a reforzar de una manera practica los conceptos de DevOps aprendidos en clase.  Pueden conocer el proyecto en el siguiente [link](https://docs.google.com/document/d/1i-5brhFVuKGo6tiFcNZxyGDXSMJqeY21GEWE3LqItiA/edit#)
+Como parte de la especialización del ingeneria de software uno de los talleres entregables consta de la entrega de un proyecto con varios requerimientos el cual ayuda a reforzar de una manera practica los conceptos de DevOps aprendidos en clase.  Pueden conocer el detalle completo del proyecto en el siguiente [link](https://docs.google.com/document/d/1i-5brhFVuKGo6tiFcNZxyGDXSMJqeY21GEWE3LqItiA/edit#)
 
 
 ## Pre-requisitos 📋
-#### Tener cuentas activas en los siguientes productos, sino los tiene deben crear la cuenta:
-[github](https://github.com/join) para tener cargar el código a los repositorios.
-[mockapi](https://mockapi.io/signup) para crear el api para acceder a usuarios, tokens y roles.
-[stackoverflow](https://stackoverflow.com/users/signup?ssrc=product_home) para reportar issues
-[slack](https://slack.com/intl/es-co/get-started#/createnew) para hacer monitoreo.
-[sonarcloud](https://sonarcloud.io/sessions/new) para integrar CI/CD
-[heroku](https://signup.heroku.com/login) para publicar las api en la nube.
+#### Tener cuentas activas en los siguientes productos:
+*[github](https://github.com/join) para tener cargar el código a los repositorios.
+*[mockapi](https://mockapi.io/signup) para crear el api para acceder a usuarios, tokens y roles.
+*[stackoverflow](https://stackoverflow.com/users/signup?ssrc=product_home) para reportar issues
+*[slack](https://slack.com/intl/es-co/get-started#/createnew) para hacer monitoreo.
+*[sonarcloud](https://sonarcloud.io/sessions/new) para integrar CI/CD
+*[heroku](https://signup.heroku.com/login) para publicar las api en la nube.
 
 #### Software a instalar
 #### Opcional: VMWare player para crear una maquina virtual para realizar el laboratorio, para esto descargar:
-[VMWare player](https://customerconnect.vmware.com/en/downloads/info/slug/desktop_end_user_computing/vmware_workstation_player/16_0)
-[unbutu](https://ubuntu.com/download/desktop/thank-you?version=22.04.1&architecture=amd64)
+*[VMWare player](https://customerconnect.vmware.com/en/downloads/info/slug/desktop_end_user_computing/vmware_workstation_player/16_0)
+*[unbutu](https://ubuntu.com/download/desktop/thank-you?version=22.04.1&architecture=amd64)
 
 #### Obligatorio:
-[Git](https://git-scm.com/downloads)
-[Python3](https://www.python.org/downloads/)
-[Postman](https://www.postman.com/downloads/)
-[VisualCode](https://code.visualstudio.com/download) o [Pycharm](https://www.jetbrains.com/es-es/pycharm/download)
+*[Git](https://git-scm.com/downloads)
+*[Python3](https://www.python.org/downloads/)
+*[Postman](https://www.postman.com/downloads/)
+*[VisualCode](https://code.visualstudio.com/download) o [Pycharm](https://www.jetbrains.com/es-es/pycharm/download)
 
 ## Instrucciónes 🚀
 
