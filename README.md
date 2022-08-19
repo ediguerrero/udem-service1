@@ -1,8 +1,8 @@
 # Taller Caso GreenSoft
 ## Aseguramiento de la calidad del Software, Docente Juan Pablo Ramírez
 ## Univerdidad De Medellín 2022
-## 
-## 
+ 
+ 
 
 ## Introducción
 Como parte de la especialización del ingeneria de software uno de los talleres entregables consta de la entrega de un proyecto con varios requerimientos el cual ayuda a reforzar de una manera practica los conceptos de DevOps aprendidos en clase.  Pueden conocer el proyecto en el siguiente [link](https://docs.google.com/document/d/1i-5brhFVuKGo6tiFcNZxyGDXSMJqeY21GEWE3LqItiA/edit#)
