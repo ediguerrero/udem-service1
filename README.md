@@ -47,7 +47,7 @@ uvicorn main:app --reload
 
 Ir al browser y abrir [la página](http://localhost:8000/docs)
 
-Comprobar que al abrir, cargue el swagger y tenga metodo infoUsers y usar el parametro edi222
+Comprobar que al abrir, cargue el swagger y tenga metodo infoUsers y usar el parametro *edi222*
 
 
 #### Opcional:
